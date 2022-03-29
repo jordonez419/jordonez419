@@ -3,7 +3,7 @@
 A Few things about me:
 
 - 🔭 I’m currently working on ... Python Algorithms
-- 👯 I’m looking to collaborate on ... Creating on full stack projects from scratch
+- 👯 I’m looking to collaborate on ... Creating full stack projects from scratch
 - 🤔 I’m looking for help with ... Job Hunting!
 - 💬 Ask me about ... Basketball!
 - 📫 How to reach me: ... j.ordonez419@gmail.com
