@@ -8,4 +8,5 @@ A Few things about me:
 - 💬 Ask me about ... Basketball!
 - 📫 How to reach me: ... j.ordonez419@gmail.com
 - ⚡ Fun fact: ... I will one day see the Miami Dolphins win a superbowl... maybe
+- Lets chat: ... https://www.linkedin.com/in/juan-ordonez419/
 
